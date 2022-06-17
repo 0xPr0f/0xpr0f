@@ -1,4 +1,4 @@
-### Hi there 👋
+### This repo was rugged by a bot, hence the unusual contributions 
 
 <!--
 **0xPr0f/0xpr0f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
